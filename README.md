@@ -15,4 +15,4 @@ https://public.tableau.com/app/profile/anusha.seelam2683/viz/openingvsclosingpri
 - Data Analysis
 
 ## Internship
-InternLink – Data Science / Data Analytics
+InternLink – Data Science 
